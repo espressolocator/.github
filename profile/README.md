@@ -6,5 +6,5 @@ The project is retired in 2018 (no longer updated or actively developed), but st
 
 If someone is willing to address https://github.com/espressolocator/telescope-espressolocator/issues/16 to begin with and start contributing, I will be happy to dedicate time to this project too.
 
-*Please be aware https://espressolocator.com domain does not belong to Espressolocator project any more.*
+*Please be aware `https://espressolocator.com` domain does not belong to Espressolocator project any more.*
 
